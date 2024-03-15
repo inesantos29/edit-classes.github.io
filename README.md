@@ -1,5 +1,7 @@
 ## EDIT
 
+- Intro - git
+
 - HTML
 
-- CSS
+- CSS - flexbox
